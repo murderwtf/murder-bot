@@ -1,0 +1,46 @@
+"This bot is still in public beta, The bot has lots of downtime and bugs!"
+"This is still outdated."
+
+"Currently there are 81 commands on the bot. Idk about here but gang shit"
+
+FUN:
+
+clone (message)  @ clones the message in a webhook
+quiz  @ sends quizes in the guild
+invites  @ checks how many u invited in the guild
+
+Misc:
+
+serverinfo  @ View server information
+embed  @ creates embed for you, type ,embed for moreinformation
+roleinfo  @ View role information or view the top roles information
+userinfo  @ Views user Informations
+avatar[av, pfp] (user)  @ view users avatar
+ping  @ says ur ping 
+snipe  @ snipes the current msg that got deleted
+
+Moderation : 
+
+Ban (user)  @ bans the user from the guild
+unban (user)  @ unbans the specific user ur mentioned
+warn (user)  @ warns the user at a amount of warns he gets kicked/banned
+delwarns (user) (amount)  @ removes the amount of warns
+softban (user)  @ gives the specific user a soft ban
+kick (user)  @ kicks the user
+lock (channelname)  @ locks the channel to not write
+unlock (channelname)  @ unlocks the specific channel
+settings  @ Views settings from the Guild
+setmodlogs (channelname)  @ sets the channel as a mod
+setmuteroles (rolename)  @ sets the specific role as a mute role
+setperms (command)  @ sets perms 
+nickname (user) (the nickname u want to give them)  @ renames the nickname of the specific user
+enable (command) enables a disabled command
+disable (command) disables a enabled command
+setup  @ makes ur server better
+
+prefix: 
+
+prefix  @ shows the current prefix of the guild
+prefix (prefix)  @ changes the prefix 
+
+
