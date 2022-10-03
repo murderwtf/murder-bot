@@ -8,13 +8,17 @@ FUN:
 clone (message)  @ clones the message in a webhook
 quiz  @ sends quizes in the guild
 invites  @ checks how many u invited in the guild
+rickroll  @ rickroll someone 
+clown  @ makes someone look like a clown
 
 Misc:
 
 serverinfo  @ View server information
 embed  @ creates embed for you, type ,embed for moreinformation
 roleinfo  @ View role information or view the top roles information
+credits  @ sends the bot credits
 userinfo  @ Views user Informations
+invite  @ sends the invite link
 avatar[av, pfp] (user)  @ view users avatar
 ping  @ says ur ping 
 snipe  @ snipes the current msg that got deleted
@@ -43,4 +47,10 @@ prefix:
 prefix  @ shows the current prefix of the guild
 prefix (prefix)  @ changes the prefix 
 
+crypto:
+
+bitcoin  @ shows the current price of bitcoin
+ethereum  @ shows the current price of ehtereum
+
+NOTE : dm murder#0007 for crypto ideas
 
